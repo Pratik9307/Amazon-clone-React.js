@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+
+}
+
+.P-Container{
+    width: 22%;
+   justify-content: space-between;
+    height: 400px;
+    background-color: white;
+    bottom: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.title-name{
+    padding: 12px;
+    font-size: 22px;
+}
+.image-wrapper{
+    padding: 2px;
+    margin: 12px 12px;
+}
+
+.img {
+    height: 95px;
+   
+}
+
+.img-container{
+    gap: 10px;
+}
+
+
+.para1{
+    margin-top: 40px;
+    color: rgb(48, 48, 245);
+    font-size: 10px;
+    cursor: pointer;
+}
+
+
+
+

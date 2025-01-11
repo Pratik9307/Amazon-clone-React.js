@@ -1,0 +1,204 @@
+
+
+.Parent-Wrapper{
+    position: absolute;
+    top: 360px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    
+   
+    
+   
+}
+.Card-wrapper{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    height: max-content;
+    
+  
+    
+    
+
+}
+.Card2-Wrapppr{
+    
+   height: auto;
+ 
+   
+}
+
+.Card3-wrapper {
+    margin-top: 20px;
+    height: 400px;
+     display: flex;
+     flex-direction: row;
+    
+    
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+   
+    width: 100%;
+    
+    
+    
+
+    
+}
+
+
+
+.child-wrapper1{
+    width: 22%;
+    height: 400px;
+    
+}
+   
+
+.sep-Div{
+    height: 400PX;
+   width: 340px;
+    background-color: white;
+    margin-left: 25px;
+   
+  
+}
+
+.title-sep{
+    font-size: 17px;
+    padding: 20px;
+}
+
+.img-div{
+    width: 150px;
+    height: 120px;
+    margin-left: 20px;
+}
+.option{
+    margin-top: 20px;
+    margin-left: 20px;
+    color: rgb(82, 82, 205);
+}
+
+.option:hover{
+    color: brown
+}
+
+.Card-wrapper4{
+    width: 100%;
+    height: auto;
+    
+    display: flex;
+    flex-direction: column; 
+
+    
+
+}
+
+.Card-wrapper5{
+    width: 100%;
+    height: auto;
+    margin-top: 15px;
+}
+
+
+.card-wrapper6 {
+    border: 2px solid black;
+    height: auto;
+    width: 100%;
+
+}
+
+.sep-con{
+   
+    margin-left: 35px;
+    width: 330px;
+    height: 400px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+  .vedio-div{
+    
+    height: auto
+  }
+  .Card-wrapper6{
+   
+    height: auto;
+    width: 100%;
+  }
+
+  .End-Wrapper{
+    height: 600px;
+    margin-top: 20px;
+    background-color: white;
+    width: 100%;
+  }
+
+  .child-end-wrapper{   
+      margin-top: 50px;
+      border-radius: 4px;
+      margin-bottom: 10px;
+      margin-left: 1px;
+      margin-right: 1px;
+      
+  }
+ 
+  .GOD{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20PX;
+    margin-right: 30PX;
+  }
+  .GOD2{
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .margin{
+    margin-left: 30px;
+    margin-top: 200px;
+    width: 35px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    box-shadow: 1px 1px 7px;
+  }
+  .margin:hover{
+    background-color: rgb(250, 253, 252);
+  }
+  .margin1{
+    margin-right: 30px;
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 35px;
+    height: 40px;
+    border-radius: 8px;
+    box-shadow: 1px 1px 7px;
+  }
+  .margin1:hover{
+    background-color: rgb(250, 253, 252);
+  }
+
+
+  .middle{
+    border: 2px solid black;
+    width: 100%;
+    height: 500px;
+    margin-top: 20px;
+    margin:10px 10px;
+  }
+
+
+  
+
+
+

@@ -1,0 +1,158 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+.Header-Wrapper{
+   
+    height: 60px;
+    background-color: rgb(32, 30, 30);
+    display: flex;
+    align-items: center;
+    z-index: 100;
+    top: 0;
+    position:sticky
+}
+.Image-container {
+  height: 50px;
+  width: 120px;
+  display: flex;
+  align-items: center;
+ 
+}
+
+.Image-container:hover{
+    cursor: pointer;
+    border:     1px solid white;
+}
+
+.child-wrapper{
+    
+    display: flex;
+    align-items: center;
+}
+.child-wrapper:hover{
+    cursor: pointer;
+    border:     1px solid white;
+}
+
+.header-child:hover{
+    cursor: pointer;
+    border:     1px solid white;
+}
+.header-child{
+    height: 50px;
+    width: 50px;
+    display: flex;
+    align-items: center;
+}
+
+
+.header-child1:hover{
+    cursor: pointer;
+    border:     1px solid white;
+}
+.header-child1{
+    height: 50px;
+    
+    display: flex;
+    align-items: center;
+}
+.header-child2:hover{
+    cursor: pointer;
+    border:     1px solid white;
+}
+.header-child2{
+    height: 50px;
+    
+    display: flex;
+    align-items: center;
+}
+.header-child3:hover{
+    cursor: pointer;
+    border:     1px solid white;
+}
+.header-child3{
+    height: 50px;
+    
+    display: flex;
+    align-items: center;
+}
+.Header-Wrapper {
+    height: 60px;
+    background-color: rgb(32, 30, 30);
+    display: flex;
+    align-items: center; /* Center elements vertically */
+    justify-content: space-between; /* Space elements evenly */
+    padding: 0 15px; /* Add horizontal padding for spacing */
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  
+  .Image-container {
+    height: 50px;
+    width: 120px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .child-wrapper {
+    display: flex;
+    flex-direction: column; /* Stack text and button vertically */
+    align-items: flex-start; /* Align text to the left */
+    justify-content: center;
+    padding: 5px 10px; /* Add spacing around */
+  }
+  
+  .border {
+    display: flex;
+    align-items: center; /* Center search bar vertically */
+    justify-content: center;
+    gap: 5px; /* Add space between sections */
+  }
+  
+  .header-child {
+    display: flex;
+    align-items: center;
+    gap: 5px; /* Add space between elements */
+  }
+  
+  .header-child1 {
+    display: flex;
+    flex-direction: column; /* Stack text and button vertically */
+    align-items: flex-start;
+    justify-content: center;
+    padding: 5px 10px;
+  }
+  
+  .header-child2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 5px 10px;
+  }
+  
+  .header-child3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px; /* Add space between cart icon and text */
+  }
+  
+  .header-child3 svg {
+    font-size: 20px;
+  }
+  
+  .hello{
+    width: 30px;
+  }
+
+  .india-image{
+    margin-top: -2px;
+  }
+  
+  .cart{
+    margin-top: -13px;margin-right: 17px;
+    }

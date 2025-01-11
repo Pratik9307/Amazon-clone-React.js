@@ -1,0 +1,98 @@
+const Data=[
+    {
+        id:1,
+        title:"Up to 60% off | Kitchen products curated from stores nearby",
+        image1:"https://m.media-amazon.com/images/I/61iD9EU1IML._AC_SY200_.jpg",
+        image2:"https://m.media-amazon.com/images/I/61pkXBEU5LL._AC_SY200_.jpg",
+        image3:"https://m.media-amazon.com/images/I/51aOHmhi9sL._AC_SY200_.jpg",
+        image4:"https://m.media-amazon.com/images/I/41+EFKh0l2L._AC_SY200_.jpg",
+        image5:"https://m.media-amazon.com/images/I/41+gT-PLULL._AC_SY200_.jpg",
+        image6:"https://m.media-amazon.com/images/I/61BzUhANVoL._AC_SY200_.jpg",
+        image7:"https://m.media-amazon.com/images/I/71czy6SuSuL._AC_SY200_.jpg",
+        image8:"https://m.media-amazon.com/images/I/61sTdOlM5mL._AC_SY200_.jpg",
+        image9:"https://m.media-amazon.com/images/I/61iD9EU1IML._AC_SY200_.jpg",
+        image10:"https://m.media-amazon.com/images/I/61BzUhANVoL._AC_SY200_.jpg",
+        image11:"https://m.media-amazon.com/images/I/41MhGSY6WWL._AC_SY200_.jpg",
+        image12:"https://m.media-amazon.com/images/I/51qss6WUBFL._AC_SY200_.jpg",
+        image13:"https://m.media-amazon.com/images/I/71rZ-n4XMJL._AC_SY200_.jpg",
+
+    },
+    {
+        id:2,
+        title:"Health & beauty bestsellers",
+        image1:"https://m.media-amazon.com/images/I/81A3K8vx3RL._AC_SY200_.jpg",
+        image2:"https://m.media-amazon.com/images/I/51tGP9R-asL._AC_SY200_.jpg",
+        image3:"https://m.media-amazon.com/images/I/51jYzcnzuNL._AC_SY200_.jpg",
+        image4:"https://m.media-amazon.com/images/I/51aGuP83D9L._AC_SY200_.jpg",
+        image5:"https://m.media-amazon.com/images/I/41+gT-PLULL._AC_SY200_.jpg",
+        image6:"https://m.media-amazon.com/images/I/71Vef59hiLL._AC_SY200_.jpg",
+        image7:"https://m.media-amazon.com/images/I/51AOjRcefQL._AC_SY200_.jpg",
+        image8:"https://m.media-amazon.com/images/I/51KHVviOsnL._AC_SY200_.jpg",
+        image9:"https://m.media-amazon.com/images/I/51TAm6yucIL._AC_SY200_.jpg",
+        image10:"https://m.media-amazon.com/images/I/51navO-QCoL._AC_SY200_.jpg",
+        image11:"https://m.media-amazon.com/images/I/51qss6WUBFL._AC_SY200_.jpg",
+        image12:"https://m.media-amazon.com/images/I/51qss6WUBFL._AC_SY200_.jpg",
+        image13:"https://m.media-amazon.com/images/I/71rZ-n4XMJL._AC_SY200_.jpg",
+
+    },
+
+    {
+        id:3,
+        title:"Best Sellers in Computers & Accessories",
+        image1:"https://m.media-amazon.com/images/I/61UzQMCRaeL._AC_SY200_.jpg",
+        image2:"https://m.media-amazon.com/images/I/71maWXZscfL._AC_SY200_.jpg",
+        image3:"https://m.media-amazon.com/images/I/41KuRShR97L._AC_SY200_.jpg",
+        image4:"https://m.media-amazon.com/images/I/61GQUtqKIpS._AC_SY200_.jpg",
+        image5:"https://m.media-amazon.com/images/I/414FMWNS6jL._AC_SY200_.jpg",
+        image6:"https://m.media-amazon.com/images/I/61RDN5wWEmL._AC_SY200_.jpg",
+        image7:"https://m.media-amazon.com/images/I/71Zf9uUp+GL._AC_SY200_.jpg",
+        image8:"https://m.media-amazon.com/images/I/51a1LryFTZS._AC_SY200_.jpg",
+        image9:"https://m.media-amazon.com/images/I/61egMfcDWlL._AC_SY200_.jpg",
+        image10:"https://m.media-amazon.com/images/I/71ojkmsYe8L._AC_SY200_.jpg",
+        image11:"https://m.media-amazon.com/images/I/61rS2NX1vyL._AC_SY200_.jpg",
+        image12:"https://m.media-amazon.com/images/I/612xkW5fVYL._AC_SY200_.jpg",
+        image13:"https://m.media-amazon.com/images/I/61kBmC8NfGL._AC_SY200_.jpg",
+
+    },
+    {
+        id:4,
+        title:"Up to 60% off | Kitchen products curated from stores nearby",
+        image1:"https://m.media-amazon.com/images/I/41uiF8w1UPL._AC_SY200_.jpg",
+        image2:"https://m.media-amazon.com/images/I/61pkXBEU5LL._AC_SY200_.jpg",
+        image3:"https://m.media-amazon.com/images/I/51aOHmhi9sL._AC_SY200_.jpg",
+        image4:"https://m.media-amazon.com/images/I/41+EFKh0l2L._AC_SY200_.jpg",
+        image5:"https://m.media-amazon.com/images/I/81lz5LGXtJL._AC_SY200_.jpg",
+        image6:"https://m.media-amazon.com/images/I/81lz5LGXtJL._AC_SY200_.jpg",
+        image7:"https://m.media-amazon.com/images/I/61sTdOlM5mL._AC_SY200_.jpg",
+        image8:"https://m.media-amazon.com/images/I/61iD9EU1IML._AC_SY200_.jpg",
+        image9:"https://m.media-amazon.com/images/I/61iD9EU1IML._AC_SY200_.jpg",
+        image10:"https://m.media-amazon.com/images/I/61BzUhANVoL._AC_SY200_.jpg",
+        image11:"https://m.media-amazon.com/images/I/61BzUhANVoL._AC_SY200_.jpg",
+        image12:"https://m.media-amazon.com/images/I/818VV3R+NmL._AC_SY200_.jpg",
+        image13:"https://m.media-amazon.com/images/I/41BqhncCcQL._AC_SY200_.jpg",
+
+    },
+    {
+        id:5,
+        title:"Up to 75% off | Bestsellers curated from stores nearby",
+        image1:"https://m.media-amazon.com/images/I/71aJJQtVnoL._AC_SY200_.jpg  ",
+        image2:"https://m.media-amazon.com/images/I/71aJJQtVnoL._AC_SY200_.jpg",
+        image3:"https://m.media-amazon.com/images/I/61eaeqlbsUL._AC_SY200_.jpg",
+        image4:"https://m.media-amazon.com/images/I/71VXrDt47XL._AC_SY200_.jpg",
+        image5:"https://m.media-amazon.com/images/I/71VXrDt47XL._AC_SY200_.jpg",
+        image6:"https://m.media-amazon.com/images/I/819DWQLgjKL._AC_SY200_.jpg  ",
+        image7:"https://m.media-amazon.com/images/I/819DWQLgjKL._AC_SY200_.jpg",
+        image8:"https://m.media-amazon.com/images/I/61jOliJK5CL._AC_SY200_.jpg",
+        image9:"https://m.media-amazon.com/images/I/61jOliJK5CL._AC_SY200_.jpg",
+        image10:"https://m.media-amazon.com/images/I/71aTghUQfqL._AC_SY200_.jpg",
+        image11:"https://m.media-amazon.com/images/I/61akt30bJsL._AC_SY200_.jpg",
+        image12:"https://m.media-amazon.com/images/I/61gnwDgVZbL._AC_SY200_.jpg",
+        image13:"https://m.media-amazon.com/images/I/614pTKzcPiL._AC_SY200_.jpg",
+
+    },
+
+    
+
+   
+]
+export default Data;
